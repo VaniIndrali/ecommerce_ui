@@ -1,4 +1,4 @@
-# ecommerce_ui
+# Ecommerce_UI
 
 A Flutter application.
 
@@ -17,5 +17,5 @@ samples, guidance on mobile development, and a full API reference.
 
 # Screenshots: 
 
-![]<img src="https://raw.githubusercontent.com/VaniIndrali/ecommerce_ui/master/images/e.jpg" width="220" height="350"> 
-![]<img src="https://raw.githubusercontent.com/VaniIndrali/ecommerce_ui/master/images/e1.jpg" width="220" height="350">
+<img src="https://raw.githubusercontent.com/VaniIndrali/ecommerce_ui/master/images/e.jpg" width="220" height="350"> 
+<img src="https://raw.githubusercontent.com/VaniIndrali/ecommerce_ui/master/images/e1.jpg" width="220" height="350">
